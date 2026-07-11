@@ -1,0 +1,1 @@
+So far, I have added the navigation bar, hero section, speakers section, and footer to my developer contest project. I'm wondering what other sections I should include between the speakers section and the footer.
